@@ -1,4 +1,4 @@
-dev:
-  dev:dsadsadsad
+config:
+   dev: file:config-dev ,time:1
 age: 31
 version: 2020/4/9
